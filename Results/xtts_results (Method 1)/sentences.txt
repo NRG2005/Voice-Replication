@@ -1,0 +1,20 @@
+Good morning everyone, let us begin with a quick recap of the previous lecture.
+Please open your notebooks and follow along with the example on the screen.
+Today we will look at how the method works and why it matters in practice.
+If you have any doubts, please ask them at the end of this section.
+The assignment is due next week, so please start working on it early.
+Let us go through the main steps one by one.
+This is a common mistake that students make during the exam.
+Remember that the goal is to understand the idea, not just memorize the formula.
+We will now move on to the next topic.
+To summarize, there are three key points you should take away from this lecture.
+A convolution slides a small kernel across the image to produce a feature map.
+Histogram equalization improves the contrast of an image.
+The Canny edge detector uses two thresholds for hysteresis.
+Backpropagation computes gradients using the chain rule.
+Gradient descent updates the weights in the direction that reduces the loss.
+A convolutional neural network applies pooling to reduce the spatial resolution.
+The ResNet architecture uses skip connections to ease the training of deep networks.
+Overfitting happens when the model memorizes the training data.
+Precision and recall describe different kinds of errors in a classifier.
+SIFT detects keypoints that are invariant to scale and rotation.

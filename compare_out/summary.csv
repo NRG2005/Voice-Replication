@@ -1,0 +1,4 @@
+method,speaker_sim,wer,utmos
+f5,0.662,0.034,2.244
+knnvc,0.625,0.043,2.293
+xtts,0.38,0.077,2.593

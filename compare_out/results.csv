@@ -1,0 +1,61 @@
+method,idx,sentence,speaker_sim,wer,utmos
+xtts,0,"Good morning everyone, let us begin with a quick recap of the previous lecture.",0.3934825360774994,0.0,2.759913682937622
+xtts,1,Please open your notebooks and follow along with the example on the screen.,0.49536585807800293,0.0,2.488523483276367
+xtts,2,Today we will look at how the method works and why it matters in practice.,0.34451040625572205,0.0,2.7005252838134766
+xtts,3,"If you have any doubts, please ask them at the end of this section.",0.5219250917434692,0.07142857142857142,1.7534925937652588
+xtts,4,"The assignment is due next week, so please start working on it early.",0.485282838344574,0.0,1.7820453643798828
+xtts,5,Let us go through the main steps one by one.,0.39576542377471924,0.0,2.750697612762451
+xtts,6,This is a common mistake that students make during the exam.,0.39690056443214417,0.0,2.129920721054077
+xtts,7,"Remember that the goal is to understand the idea, not just memorize the formula.",0.2633683979511261,0.0,2.908320903778076
+xtts,8,We will now move on to the next topic.,0.4437423348426819,0.0,2.8615493774414062
+xtts,9,"To summarize, there are three key points you should take away from this lecture.",0.3763985335826874,0.0,2.8827097415924072
+xtts,10,A convolution slides a small kernel across the image to produce a feature map.,0.37740492820739746,0.0,2.1580252647399902
+xtts,11,Histogram equalization improves the contrast of an image.,0.5008199214935303,0.125,2.9849865436553955
+xtts,12,The Canny edge detector uses two thresholds for hysteresis.,0.23485642671585083,0.1111111111111111,2.986297369003296
+xtts,13,Backpropagation computes gradients using the chain rule.,0.46129271388053894,0.2857142857142857,2.752915859222412
+xtts,14,Gradient descent updates the weights in the direction that reduces the loss.,0.40615779161453247,0.25,2.4790217876434326
+xtts,15,A convolutional neural network applies pooling to reduce the spatial resolution.,0.23154811561107635,0.09090909090909091,2.7399513721466064
+xtts,16,The ResNet architecture uses skip connections to ease the training of deep networks.,0.2756316363811493,0.07692307692307693,2.790468692779541
+xtts,17,Overfitting happens when the model memorizes the training data.,0.33666861057281494,0.2222222222222222,2.1903319358825684
+xtts,18,Precision and recall describe different kinds of errors in a classifier.,0.35402148962020874,0.0,2.884178400039673
+xtts,19,SIFT detects keypoints that are invariant to scale and rotation.,0.3087442219257355,0.3,2.8826141357421875
+f5,0,"Good morning everyone, let us begin with a quick recap of the previous lecture.",0.6068400144577026,0.14285714285714285,2.3417882919311523
+f5,1,Please open your notebooks and follow along with the example on the screen.,0.7000101208686829,0.07692307692307693,2.0713295936584473
+f5,2,Today we will look at how the method works and why it matters in practice.,0.7578048706054688,0.0,2.204129695892334
+f5,3,"If you have any doubts, please ask them at the end of this section.",0.6942189931869507,0.07142857142857142,2.5959904193878174
+f5,4,"The assignment is due next week, so please start working on it early.",0.7053491473197937,0.0,1.9675298929214478
+f5,5,Let us go through the main steps one by one.,0.6912245750427246,0.0,2.620609998703003
+f5,6,This is a common mistake that students make during the exam.,0.6471074223518372,0.0,2.0738840103149414
+f5,7,"Remember that the goal is to understand the idea, not just memorize the formula.",0.6934630274772644,0.0,2.2660083770751953
+f5,8,We will now move on to the next topic.,0.6750142574310303,0.0,2.142544746398926
+f5,9,"To summarize, there are three key points you should take away from this lecture.",0.690804123878479,0.0,2.0337975025177
+f5,10,A convolution slides a small kernel across the image to produce a feature map.,0.598602294921875,0.0,2.0712335109710693
+f5,11,Histogram equalization improves the contrast of an image.,0.6468280553817749,0.0,2.1625759601593018
+f5,12,The Canny edge detector uses two thresholds for hysteresis.,0.6345750093460083,0.0,2.1843390464782715
+f5,13,Backpropagation computes gradients using the chain rule.,0.5848947763442993,0.0,2.4487850666046143
+f5,14,Gradient descent updates the weights in the direction that reduces the loss.,0.6627547740936279,0.08333333333333333,2.2413034439086914
+f5,15,A convolutional neural network applies pooling to reduce the spatial resolution.,0.628307580947876,0.0,2.217647075653076
+f5,16,The ResNet architecture uses skip connections to ease the training of deep networks.,0.6791171431541443,0.0,2.776563882827759
+f5,17,Overfitting happens when the model memorizes the training data.,0.6009430885314941,0.0,2.13974928855896
+f5,18,Precision and recall describe different kinds of errors in a classifier.,0.6594377756118774,0.0,1.9339063167572021
+f5,19,SIFT detects keypoints that are invariant to scale and rotation.,0.6794835925102234,0.3,2.395918130874634
+knnvc,0,"Good morning everyone, let us begin with a quick recap of the previous lecture.",0.6288061141967773,0.0,2.335512638092041
+knnvc,1,Please open your notebooks and follow along with the example on the screen.,0.5325124263763428,0.0,1.999080777168274
+knnvc,2,Today we will look at how the method works and why it matters in practice.,0.6388791799545288,0.0,2.1930625438690186
+knnvc,3,"If you have any doubts, please ask them at the end of this section.",0.652053952217102,0.0,2.031498908996582
+knnvc,4,"The assignment is due next week, so please start working on it early.",0.6317552328109741,0.0,2.1446075439453125
+knnvc,5,Let us go through the main steps one by one.,0.612590491771698,0.0,2.8134613037109375
+knnvc,6,This is a common mistake that students make during the exam.,0.6658681631088257,0.0,2.2955574989318848
+knnvc,7,"Remember that the goal is to understand the idea, not just memorize the formula.",0.6633098125457764,0.0,2.5636863708496094
+knnvc,8,We will now move on to the next topic.,0.6451196670532227,0.0,2.7631852626800537
+knnvc,9,"To summarize, there are three key points you should take away from this lecture.",0.6767704486846924,0.0,2.327120542526245
+knnvc,10,A convolution slides a small kernel across the image to produce a feature map.,0.6435132622718811,0.0,1.8291839361190796
+knnvc,11,Histogram equalization improves the contrast of an image.,0.5970694422721863,0.0,2.2817041873931885
+knnvc,12,The Canny edge detector uses two thresholds for hysteresis.,0.6176761984825134,0.1111111111111111,2.199126720428467
+knnvc,13,Backpropagation computes gradients using the chain rule.,0.6053341031074524,0.2857142857142857,2.455057144165039
+knnvc,14,Gradient descent updates the weights in the direction that reduces the loss.,0.5887678861618042,0.08333333333333333,2.642534017562866
+knnvc,15,A convolutional neural network applies pooling to reduce the spatial resolution.,0.6327031254768372,0.0,1.8667837381362915
+knnvc,16,The ResNet architecture uses skip connections to ease the training of deep networks.,0.6491617560386658,0.07692307692307693,2.3799731731414795
+knnvc,17,Overfitting happens when the model memorizes the training data.,0.5535240173339844,0.0,2.567716598510742
+knnvc,18,Precision and recall describe different kinds of errors in a classifier.,0.633285641670227,0.0,1.710771918296814
+knnvc,19,SIFT detects keypoints that are invariant to scale and rotation.,0.6381999850273132,0.3,2.4525251388549805

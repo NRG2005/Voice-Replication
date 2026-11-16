@@ -1,0 +1,35 @@
+# --- environments & caches ---
+venv/
+.venv/
+**/venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# --- the teacher's voice: recordings, clips, generated audio, model weights ---
+# A real person's voice is not published without their consent. Anyone reproducing this
+# builds their own dataset and trains their own model (see README).
+*.wav
+*.mp3
+*.flac
+*.mp4
+*.mkv
+*.zip
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.arrow
+dataset/*
+!dataset/summary.txt
+transcript.json
+compare_out/unzipped/
+compare_out/report.txt
+Results/*.zip
+f5_results/
+teacher_voice/outputs/
+teacher_voice/final_model/*
+!teacher_voice/final_model/.gitkeep
+*.log
+compare_out/ecapa_model/

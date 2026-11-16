@@ -1,0 +1,3 @@
+Training clips : 200  (23.9 min)
+Held-out clips : 17  (2.1 min)  <- never train on these
+Dropped        : 74 clips (empty text or marked x)
